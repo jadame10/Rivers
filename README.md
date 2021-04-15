@@ -1,2 +1,2 @@
 # Rivers
-Reads current polish rivers level in cm in different locations.
+Shows current polish rivers level in cm in different locations.
